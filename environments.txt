@@ -1,0 +1,6 @@
+# conda environments:
+#
+ulab_2.7                 /home/sage/anaconda3/envs/ulab_2.7
+ulab_3.6              *  /home/sage/anaconda3/envs/ulab_3.6
+root                     /home/sage/anaconda3
+
